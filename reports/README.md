@@ -10,7 +10,17 @@ https://drive.google.com/drive/u/0/folders/1ir79RY8o49Yar7nbmTthijAiMVH8UguF
 
 - [Каширина В.И.](kashirina.md)
 - [Киколиашвили Д.З.](kikoliashvili.md)
+- [Васильев М.И.](vasiliev.md)
+- [Дмитриева Ю.М.](dmitrieva.md)
 - [Абдулов Д.Р.](abdulov.md)
+- [Першуков А.А.](pershukov.md)
+- [Ложкин Д.А.](lozshkin.md)
+- [Губанов В.А.](gubanov.md)
+- [Черкашина М.А.](cherkashina.md)
+- [Двойник К.С.](dvoinik.md)
+- [Молчанова Н.В.](molchanova.md)
+- [Терехов М.Р.](terehov.md)
+- [Злобин З.Г.](zlobin.md)
 
 ## Отчёт
 
