@@ -8,8 +8,9 @@ https://drive.google.com/drive/u/0/folders/1ir79RY8o49Yar7nbmTthijAiMVH8UguF
 
 ## Индивидуальные планы работы
 
-- [Абдулов Д.Р.](abdulov.md)
+- [Каширина В.И.](kashirina.md)
 - [Киколиашвили Д.З.](kikoliashvili.md)
+- [Абдулов Д.Р.](abdulov.md)
 
 ## Отчёт
 
